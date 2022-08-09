@@ -11,4 +11,5 @@ function longestString(array) {
     }
     return longestWord;
 }
+
 console.log(longestString(bestFriend));
